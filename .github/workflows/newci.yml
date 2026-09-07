@@ -45,4 +45,4 @@ jobs:
               with:
                 context: ./frontend/Dockerfile.multistage
                 push: true
-                tags: ${{vars.DOCKERHUB_USERNAME}}/devboard-frontend:latest            
+                tags: ${{vars.DOCKERHUB_USERNAME}}/devboard-fntend:latest            
